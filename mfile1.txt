@@ -2,4 +2,4 @@ this first line m1
 this is second line m2
 this is third line m3
 this is line for revert back
-
+reset commoand execution
